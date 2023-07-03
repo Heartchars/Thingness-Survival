@@ -1,7 +1,7 @@
-Minicraft HTML5
+Thingness Survival
 ===============
 
-**[Click here to play it](http://chih.github.io/Minicraft-HTML5/)**
+**[Clique para jogar](http://chih.github.io/Minicraft-HTML5/)**
 
 
 
